@@ -3,8 +3,16 @@
 @import "base";
 @import "layout";
 
+/* Example for hosting your own font */
+@font-face {
+    font-family: 'DankMono-Regular';
+    src: url("/assets/fonts/DankMono-Regular.otf");
+    font-weight: regular;
+    font-style: regular;
+  }
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: DankMono-Regular, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
