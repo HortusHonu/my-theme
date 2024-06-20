@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#### This site is for learning how to use Jekyll and create webites and themes.
+## This site is for learning how to use Jekyll and create webites and themes.
 <br />
 
 
